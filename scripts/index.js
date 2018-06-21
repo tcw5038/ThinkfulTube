@@ -1,6 +1,6 @@
 'use strict';
 /* global $ */
-const API_KEY = 'AIzaSyBEOcrEzcMtbggREKaYFFajoNVKC6eGmD0';
+const API_KEY = '' ; //insert API key here;
 
 /*
   We want our store to hold a `videos` array of "decorated" objects - i.e. objects that
